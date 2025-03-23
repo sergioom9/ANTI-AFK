@@ -18,13 +18,17 @@ python --version
 
 ## Notas importantes
 Uso responsable: Este script moverá el ratón automáticamente, por lo que es recomendable usarlo en situaciones donde no interfiera con tus actividades. Puedes usarlo con aplicaciones como Teams, Zoom, Discord...
+
 Evitar bloqueos: Asegúrate de que el script esté en ejecución mientras necesites evitar el modo AFK.
+
 Compatibilidad: El script está diseñado para funcionar en sistemas Windows.
 
 
 ## Contribuciones
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes hacerlo de las siguientes maneras:
+
 Reportando errores o sugerencias en la sección de issues.
+
 Mejorando el código y enviando un pull request.
 
 
