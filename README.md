@@ -33,4 +33,4 @@ Mejorando el código y enviando un pull request.
 
 
 ## Agradecimientos
-Gracias por usar el Anti-AFK Python Script. Si tienes alguna pregunta o necesitas ayuda, no dudes en abrir un issue en el repositorio o contactar al mantenedor del proyecto.
+Gracias por usar el Anti-AFK Python Script. Si tienes alguna pregunta o necesitas ayuda, no dudes en contactar.
